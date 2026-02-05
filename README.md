@@ -1,22 +1,23 @@
-# [Nombre del videojuego]
+# Gravity Gun
 
-Proyecto personal de desarrollo de un videojuego creado con fines de aprendizaje y experimentación.
+A video game developed for learning and experimental purposes. The idea for the game was conceived and developed during the first year of my degree in Video Game Programming Engineering at UNIAT.
 
-## Descripción
-[Breve descripción del juego.  
-Ejemplo: Videojuego de plataformas en 2D donde el jugador debe superar niveles llenos de obstáculos y enemigos.]
+## Description
+A fast-paced 2D arcade game where the player uses ball-based physics to control a weapon, defeat endless hordes of enemies, and chase the highest score.
 
-## Características
-- [Mecánica principal del juego]
-- [Tipo de juego: 2D / 3D / plataformas / RPG / etc.]
-- [Modo de juego: singleplayer, historia, arcade, etc.]
+## Features
+- Main gameplay mechanic: shoot to reposition the player.
+- Game type: 2D.
+- Game mode: Singleplayer.
+- Aesthetics: Neon visuals inspired by classic arcade machine displays.
+- Enemies use a 2D NavMesh system to intelligently navigate and pursue the player across the map.
 
-## Tecnologías utilizadas
-- [Motor o framework: Unity, Godot, Unreal, etc.]
-- [Lenguaje: C#, GDScript, C++, etc.]
-- [Otras herramientas si aplica]
+## Technologies used
+- Engine or framework: Unity
+- Language: C#
+- Others tools:
 
-## Instalación / Ejecución
-1. Clona el repositorio:
+## Installation / Execution
+1. Clone the repository:
    ```bash
-   git clone https://github.com/tu-usuario/tu-repositorio.git
+   git clone https://github.com/jossAzuy/GravityGun.git
